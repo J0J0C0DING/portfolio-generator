@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "name": "portfolio-generator",
   "version": "1.0.0",
   "description": "",
@@ -16,8 +15,8 @@
   "bugs": {
     "url": "https://github.com/J0J0C0DING/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/J0J0C0DING/portfolio-generator#readme",
+  "homepage": "https://github.com/J0J0C0DING/portfolio-generator",
   "dependencies": {
-    "inquirer": "^9.0.0"
+    "inquirer": "^7.0.3"
   }
 }
